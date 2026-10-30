@@ -1,0 +1,25 @@
+{
+  "name": "dashloom-helper",
+  "version": "0.1.0",
+  "description": "Offline analytics and KPI helper toolkit for Dashloom-style product dashboards",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node examples/overview.mjs",
+    "lint": "node --check src/index.js && node --check src/cli.js",
+    "check": "npm run lint && npm test"
+  },
+  "bin": {
+    "dashloom-helper": "./src/cli.js"
+  },
+  "exports": {
+    ".": {
+      "types": "./types/index.d.ts",
+      "default": "./src/index.js"
+    }
+  }
+}

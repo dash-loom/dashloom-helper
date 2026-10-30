@@ -1,0 +1,226 @@
+[
+  {
+    "product": "example-saas",
+    "metric": "revenue",
+    "date": "2026-10-01",
+    "value": 137,
+    "source": "billing",
+    "unit": "USD"
+  },
+  {
+    "product": "example-saas",
+    "metric": "sessions",
+    "date": "2026-10-01",
+    "value": 425,
+    "source": "analytics",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "signups",
+    "date": "2026-10-01",
+    "value": 22,
+    "source": "internal",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "errors",
+    "date": "2026-10-01",
+    "value": 2,
+    "source": "cloud",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "revenue",
+    "date": "2026-10-02",
+    "value": 149,
+    "source": "billing",
+    "unit": "USD"
+  },
+  {
+    "product": "example-saas",
+    "metric": "sessions",
+    "date": "2026-10-02",
+    "value": 450,
+    "source": "analytics",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "signups",
+    "date": "2026-10-02",
+    "value": 24,
+    "source": "internal",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "errors",
+    "date": "2026-10-02",
+    "value": 3,
+    "source": "cloud",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "revenue",
+    "date": "2026-10-03",
+    "value": 161,
+    "source": "billing",
+    "unit": "USD"
+  },
+  {
+    "product": "example-saas",
+    "metric": "sessions",
+    "date": "2026-10-03",
+    "value": 475,
+    "source": "analytics",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "signups",
+    "date": "2026-10-03",
+    "value": 26,
+    "source": "internal",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "errors",
+    "date": "2026-10-03",
+    "value": 4,
+    "source": "cloud",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "revenue",
+    "date": "2026-10-04",
+    "value": 173,
+    "source": "billing",
+    "unit": "USD"
+  },
+  {
+    "product": "example-saas",
+    "metric": "sessions",
+    "date": "2026-10-04",
+    "value": 500,
+    "source": "analytics",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "signups",
+    "date": "2026-10-04",
+    "value": 28,
+    "source": "internal",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "errors",
+    "date": "2026-10-04",
+    "value": 5,
+    "source": "cloud",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "revenue",
+    "date": "2026-10-05",
+    "value": 185,
+    "source": "billing",
+    "unit": "USD"
+  },
+  {
+    "product": "example-saas",
+    "metric": "sessions",
+    "date": "2026-10-05",
+    "value": 525,
+    "source": "analytics",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "signups",
+    "date": "2026-10-05",
+    "value": 30,
+    "source": "internal",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "errors",
+    "date": "2026-10-05",
+    "value": 6,
+    "source": "cloud",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "revenue",
+    "date": "2026-10-06",
+    "value": 197,
+    "source": "billing",
+    "unit": "USD"
+  },
+  {
+    "product": "example-saas",
+    "metric": "sessions",
+    "date": "2026-10-06",
+    "value": 550,
+    "source": "analytics",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "signups",
+    "date": "2026-10-06",
+    "value": 32,
+    "source": "internal",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "errors",
+    "date": "2026-10-06",
+    "value": 7,
+    "source": "cloud",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "revenue",
+    "date": "2026-10-07",
+    "value": 209,
+    "source": "billing",
+    "unit": "USD"
+  },
+  {
+    "product": "example-saas",
+    "metric": "sessions",
+    "date": "2026-10-07",
+    "value": 575,
+    "source": "analytics",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "signups",
+    "date": "2026-10-07",
+    "value": 34,
+    "source": "internal",
+    "unit": "count"
+  },
+  {
+    "product": "example-saas",
+    "metric": "errors",
+    "date": "2026-10-07",
+    "value": 8,
+    "source": "cloud",
+    "unit": "count"
+  }
+]

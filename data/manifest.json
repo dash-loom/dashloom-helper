@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "files": {
+    "data/platforms/windows.json": "184b5a00eac5ebeeffd7602b5a97e8a66219eb25c41741e1a3c501a270da34d0",
+    "data/platforms/linux.json": "ec82a5cd365e4b6f43873ce86e7cbd1bf2731ab8c2ed9e6cdcd9a49ab5a5c075",
+    "data/platforms/mac.json": "bba30241bd60af5a187150e6e4ee31b5aa2a2e431b6d6b127faa4fe12b41fe54"
+  }
+}

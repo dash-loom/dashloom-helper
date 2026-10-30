@@ -1,0 +1,15 @@
+# Dashloom Helper — Analytics Reference
+
+Project: dashloom-helper
+Purpose: Standardize product analytics calculations and report checks.
+Traffic metrics: sessions, unique users, page views, conversions.
+Revenue metrics: gross revenue, refunds, net revenue, monthly recurring revenue.
+Subscription metrics: active subscriptions, new subscriptions, cancellations.
+Conversion rate (%) = conversions / sessions * 100 (when sessions > 0).
+Average revenue per user = net revenue / active users (when active users > 0).
+Net revenue = gross revenue - refunds.
+Period comparison (%) = (current - previous) / abs(previous) * 100 (when previous != 0).
+Data checks: reject invalid dates, duplicate event IDs, and negative counts.
+Reporting: show date range, timezone, currency, data source, and last refresh.
+Alerts: flag missing data, sharp metric changes, and failed data validation.
+Note: Reference guidance only; adapt field names and integrations to your Dashloom implementation.

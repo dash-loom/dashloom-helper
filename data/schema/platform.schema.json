@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Dashloom Helper platform record",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "platform",
+    "data1",
+    "data2"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "const": 1
+    },
+    "platform": {
+      "type": "string",
+      "enum": [
+        "windows",
+        "linux",
+        "mac"
+      ]
+    },
+    "data1": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 4096
+    },
+    "data2": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 4096
+    }
+  }
+}
